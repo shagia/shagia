@@ -15,6 +15,8 @@ My name is Devin S.G. and I'm an entertainment focused front-end engineer that's
 			<li>and more...</li>
 </ul>
 
+You can find much, much more [in my porfolio.](https://devin.sg/)
+
 <!--
 **shagia/shagia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
