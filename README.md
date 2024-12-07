@@ -1,6 +1,6 @@
 ## 👋
 
-My name is Devin S.G. and I'm an entertainment focused front-end engineer that's discovering my next goal with helping build an interactive, entertainment platform. I've build front ends for journalists, musicians, gamers, engineers and producers for their own projects. Some of the tools I've made were built using:
+My name is Devin S.G. and I'm an entertainment focused front-end engineer that's discovering my next goal with helping build an interactive, entertainment platform. I've build front ends for journalists, musicians, gamers, engineers and producers for their own projects. Some of the projects I've made were built using:
 <ul>
 			<li>JavaScript</li>
 			<li>jQuery</li>
